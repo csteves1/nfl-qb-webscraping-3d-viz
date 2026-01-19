@@ -1,4 +1,5 @@
-🏈 NFL Quarterback Web Scraping & 3D Visualization
+🏈 NFL Quarterback Web Scraping & 3D Visualization:
+
 This project demonstrates real web scraping, HTML parsing, and data cleaning using live NFL player statistics from NFL.com.
 It compares the career passing performance of Tom Brady and Lamar Jackson using an interactive 3D Plotly visualization.
 The scraper uses requests to fetch live HTML and BeautifulSoup to parse structured tables directly from the NFL website — no downloads, no manual files, and no JavaScript automation.
