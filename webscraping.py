@@ -75,7 +75,7 @@ fig = px.scatter_3d(
     z="TD",
     color="Player",
     hover_data={"YEAR": True, "YDS": True, "TD": True, "Player": True},
-    title="Brady vs Lamar Career Progression (Yards vs TDs)"
+    title="Tom Brady vs Lamar Jackson Career Progression (Yards vs TDs)"
 )
 
 fig.show()
